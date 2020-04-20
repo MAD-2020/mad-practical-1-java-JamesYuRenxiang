@@ -14,7 +14,7 @@ public class Question2
     double Height = in.nextDouble();
     System.out.println("Enter your weight:");
     double Weight = in.nextDouble();
-    System.out.println("Height: " + Height);
-    System.out.println("Weight: " + Weight);
+    System.out.println("Height: " + Height + " m");
+    System.out.println("Weight: " + Weight + " kg");
   }
 }
