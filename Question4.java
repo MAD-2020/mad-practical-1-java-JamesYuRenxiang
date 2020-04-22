@@ -24,10 +24,10 @@ public class Question4
     while (integer > 0){
       while (i < integer){
         System.out.print("*");
-        ++i;
+        i++;
       }
       System.out.println();
-      --integer;
+      integer--;
       i = 0;
     }
   }
